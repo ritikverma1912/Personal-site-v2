@@ -1,0 +1,40 @@
+body{
+  background-color:#a6e3e9;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+
+border-color:grey;
+border-width: 5px;
+
+width: 5%
+
+
+}
+
+h1,h3
+{
+
+  color: #8785a2;
+}
+
+/*   class selecter  */
+
+
+.profile:hover
+{
+  background-color: gold;
+
+}
+
+.profile{
+  background: white
+}
+.color
+{
+  border-radius: 100;
+
+
+}
